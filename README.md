@@ -11,11 +11,17 @@ SolidWorks 2021
 **Components**
 
 • Guitar Body
+
 • Neck
+
 • Headstock
+
 • Bridge
+
 • Strings
+
 • Sound Hole
+
 • Frets
 
 **Preview**
